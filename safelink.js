@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://harianinhil.blogspot.com/p/x-adv-si-skutik-adventure.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://harianinhil.blogspot.com/p/fkcryptoons.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
